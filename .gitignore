@@ -1,0 +1,7 @@
+# versionning
+.svn
+
+# config et accès
+*.inc
+*.htaccess
+
